@@ -1,0 +1,173 @@
+ill give u my previouse portfolio web app, i wanna make changes on,:
+
+on: PROJECTS delete them all, and add the projects ive done, i will list them to u(i gave u the html file to edit)::
+
+i even gave u the lists of my projects via screenshot....(Build and Deploy a Banking App
+
+e-commerce app(JAVA EE[])
+
+MOBILE CAR WASH(React + Tailwind)
+
+Resturant App(JAVA EE[])
+
+RUSTY RELIABLE RIDES(like an bolt app ill give full info):
+### Mobile: React Native + Expo
+
+
+
+
+| Technology | Version | Purpose |
+
+|---|---|---|
+
+| **React Native** | 0.81.5 | The core framework for building mobile apps with JavaScript |
+
+| **Expo** | ~54.0.27 | Toolchain that makes React Native easier to build and test |
+
+| **Expo Router** | ~6.0.17 | File-based navigation (like Next.js, but for mobile) |
+
+| **React** | 19 | UI component library (the foundation of React Native) |
+
+
+
+
+### Backend: Node.js + Express
+
+
+
+
+| Technology | Version | Purpose |
+
+|---|---|---|
+
+| **Node.js** | 24 | JavaScript runtime for the server |
+
+| **Express** | ^5 | Web framework for building the API |
+
+| **Drizzle ORM** | latest | Database query builder (works with PostgreSQL) |
+
+| **PostgreSQL** | — | The main relational database |
+
+| **Pino** | ^9 | Fast, structured logging |
+
+| **Zod** | v4 | Schema validation for API inputs/outputs |
+
+
+
+Vuka-main is a Smart Dual-Verification Alarm System A React Native mobile application that forces users to physically verify they are awake by capturing a photo of a specified object and, thirty minutes later, a morning activity. The system uses TensorFlow.js and Google Teachable Machine for real-time AI photo verification, making it impossible to dismiss the alarm without genuinely waking up and completing a morning action.)
+
+and added skills(........,)
+
+
+
+
+Also include this skills::
+⚡ What you can call yourself
+
+AI‑powered Software Engineer → because you’re combining traditional coding with AI assistance.
+
+AI Integration Specialist → highlights your ability to take AI outputs and make them work in production.
+
+Prompt Engineer & Developer → since you know how to craft prompts that get useful results, then turn them into working apps.
+
+Applied AI Technologist → emphasizes that you don’t just “play with AI,” you apply it to real projects.
+
+Full‑stack AI Developer → fits you well, because you already identify as a full‑stack dev and now you’re layering AI skills on top.
+
+⚡ The PowerShell side
+
+The “commands writing on PowerShell” is part of command‑line interface (CLI) skills. More specifically:
+
+Shell scripting → writing and executing commands in PowerShell or Bash.
+
+DevOps fundamentals → managing dependencies, builds, and environments.
+
+Package management → using npm, pnpm, yarn, etc. to install and configure libraries.
+
+System administration → editing PATH variables, configuring SDKs, troubleshooting environments.
+
+These are modules of skill that fall under developer operations (DevOps) and environment setup. They’re what separates someone who can “generate code with AI” from someone who can actually run the app on a real device.
+
+⚡ LinkedIn Headline Ideas
+
+Full‑Stack & AI‑Powered Software Engineer | Turning AI outputs into real apps
+
+Applied AI Technologist | Expert in Prompt Engineering & DevOps
+
+AI Integration Specialist | Building, Deploying & Scaling Smart Software
+
+Entrepreneur & Full‑Stack Developer | Harnessing AI for Real‑World Solutions
+
+AI‑Driven Innovator | From GitHub Repo to Running App
+
+⚡ Professional Title Options
+
+AI‑Augmented Full‑Stack Developer
+
+Prompt Engineer & DevOps Practitioner
+
+AI Software Integration Specialist
+
+Applied AI Developer
+
+AI‑Powered Technopreneur
+
+⚡ Why these fit you
+
+You’re not just coding — you’re bridging AI outputs with real deployment.
+
+You understand prompt engineering (getting the right results from AI).
+
+You handle DevOps/CLI skills (PowerShell, npm/pnpm, SDKs, environment setup).
+
+You can take a repo from GitHub and make it run on real devices — that’s a rare and valuable skill.
+
+⚡ Personal Brand Statement Options
+
+1.  
+
+"I’m a full‑stack developer and AI technologist who bridges the gap between code generation and real‑world deployment — transforming AI outputs into functional, tested, and scalable software."
+
+2.  
+
+"I specialize in applied AI development: mastering prompts, DevOps, and environment setup to take projects from GitHub repos to running apps on real devices."
+
+3.  
+
+"As an AI‑powered software innovator, I combine full‑stack engineering with prompt mastery and system troubleshooting to deliver apps that don’t just exist in theory — they work in practice."
+
+4.  
+
+"I’m an entrepreneur and developer fluent in both AI platforms and command‑line operations, turning ideas into branded, investor‑ready products."
+
+GIHUB SKILLS:
+
+⚡ Personal Brand Statement Options
+
+1.  
+
+"I’m a full‑stack developer and AI technologist who bridges the gap between code generation and real‑world deployment — transforming AI outputs into functional, tested, and scalable software."
+
+2.  
+
+"I specialize in applied AI development: mastering prompts, DevOps, and environment setup to take projects from GitHub repos to running apps on real devices."
+
+3.  
+
+"As an AI‑powered software innovator, I combine full‑stack engineering with prompt mastery and system troubleshooting to deliver apps that don’t just exist in theory — they work in practice."
+
+4.  
+
+"I’m an entrepreneur and developer fluent in both AI platforms and command‑line operations, turning ideas into branded, investor‑ready products."summarize them
+
+take note: the project code or full things are on my GutHUB ACCOUNT
+
+make use of the images i gave u also please there on the portfolio, nicer.....it must also explain my projects
+
+fix my portfoloi and make it nicer than before, dont change the other info left is important, is just improving the Web App, and in HTML, the web app must also have a link to send to my CV or other companies to have accesss of it... DONT CHANGE MY LOGIC OF THE WEB APP
+
+my cv link: file:///C:/Users/M/OneDrive%20-%20Tshwane%20University%20of%20Technology/Desktop/CV/CV_Thato_Xauka_2026_Updated%20(2).pdf
+
+
+
+GENERATE!!!!!!!!
