@@ -1,0 +1,9 @@
+# Tell GitHub to only count the portfolio HTML for language stats
+# Everything else is internal tooling, not the actual project
+
+artifacts/api-server/** linguist-vendored
+artifacts/mockup-sandbox/** linguist-vendored
+lib/** linguist-vendored
+scripts/** linguist-vendored
+.local/** linguist-vendored
+pnpm-workspace.yaml linguist-vendored
